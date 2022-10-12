@@ -11,7 +11,7 @@ This repo includes all the 3D Brain and Heart Volume Generative Models papers wh
 - ### [Unconditional Applications](#unconditional-applications)<br>
   - [Unconditional Synthesis](#unconditional-synthesis)<br>
   - [Classification](#classification)<br>
-- ### [Conditional Applications](#conditional-applications)<br>
+- ### [Conditional Applications](#conditional-applications-1)<br>
   - [Conditional Synthesis](#conditional-synthesis)<br>
   - [Segmentation](#segmentation)<br>
   - [Denoising](#denoising)<br>
@@ -60,7 +60,8 @@ This repo includes all the 3D Brain and Heart Volume Generative Models papers wh
 
 
 
-# Conditional Applications
+
+<h1 id="conditional-applications-1">Conditional Applications</h1>
 
 ## Conditional Synthesis
 
