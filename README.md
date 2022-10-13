@@ -207,6 +207,8 @@ If you find the listing or the survey useful for your work, please cite our pape
       title={3D Brain and Heart Volume Generative Models: A Survey}, 
       author={Liu, Yanbin and Dwivedi, Girish and Boussaid, Farid and Bennamoun, Mohammed},
       year={2022},
+      eprint={2210.05952},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={eess.IV}
+}
 }
