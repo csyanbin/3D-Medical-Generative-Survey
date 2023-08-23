@@ -4,7 +4,7 @@ Yanbin Liu, Girish Dwivedi, Farid Boussaid, Mohammed Bennamoun
 This repo includes all the 3D Brain and Heart Volume Generative Models papers which are presented in our [paper](https://arxiv.org/pdf/2210.05952.pdf), and we aim to update this repo frequently.
 
 <p align="center">
-<img src="Figure_taxnomy.png" width="1000">
+<img src="Figure_taxnomy_new.png" width="1000">
 </p>
 
 ## Content
