@@ -214,12 +214,13 @@ This repo includes all the 3D Brain and Heart Volume Generative Models papers wh
 If you find the listing or the survey useful for your work, please cite our paper:
 
 ```
-@misc{Liu2022,
-      title={3D Brain and Heart Volume Generative Models: A Survey}, 
-      author={Liu, Yanbin and Dwivedi, Girish and Boussaid, Farid and Bennamoun, Mohammed},
-      year={2022},
-      eprint={2210.05952},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
-}
+@article{LIU:CUSR24,
+  title={3d brain and heart volume generative models: A survey},
+  author={Liu, Yanbin and Dwivedi, Girish and Boussaid, Farid and Bennamoun, Mohammed},
+  journal={ACM Computing Surveys},
+  volume={56},
+  number={6},
+  pages={1--37},
+  year={2024},
+  publisher={ACM New York, NY}
 }
